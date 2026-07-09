@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.zhihu_auth.json
+*.log
